@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showin ghow to use Git and Githudb together. Adding a line for rebasing example.
+This is a simple website project for showin ghow to use Git and Githudb together. Adding a line for rebasing example, then more changes from myfeature branch too.
 
 ## Introduction
 
